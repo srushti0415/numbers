@@ -1,6 +1,6 @@
 function myfunction(a,b,c,d){
     if (a>b && a>c && a>d){
-        console.log("a is max no")
+        console.log("a is max ")
     }
     else if (b>a && b>c && b>d){
         console.log("b is max")
