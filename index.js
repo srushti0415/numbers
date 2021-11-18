@@ -13,3 +13,7 @@ function myfunction(a,b,c,d){
     }
 }
 myfunction(2,4,8,7)
+
+var num = 50;
+num = 40;
+
