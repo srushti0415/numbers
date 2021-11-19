@@ -17,3 +17,5 @@ myfunction(2,4,8,7)
 var num = 50;
 num = 40;
 
+const age = 20;
+age <= 19 ? console.log("u ra teen ager ") : console.log("you are a adult")
