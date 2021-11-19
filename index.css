@@ -1,12 +1,12 @@
 h1{
-    color: blue;
-    background-color: pink;
+    color: rgb(4, 4, 82);
+    background-color: rgb(245, 217, 222);
     font-family: Arial, Helvetica, sans-serif;
 
 }
 p{
-    color: turquoise;
-    background-color: brown;
+    color: rgb(112, 250, 236);
+    background-color: rgb(49, 2, 2);
     font-family: Arial, Helvetica, sans-serif;
     
 }
