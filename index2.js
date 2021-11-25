@@ -1,23 +1,15 @@
-let b = 2;
-let primenum = false;
-
-function primeNumbers(a) {
+let a = 2;
+while (a <= 100) {
+    let b = 2;
+    let primenum = false;
     while (b < a) {
         if (a % b == 0) {
-            console.log("its not a prime number ")
             primenum = true;
         }
-        b++;
+        b++
     }
-
-    // for(a=2; a< 100 ; a++);
     if (primenum == false) {
         console.log(a, "its a prime number")
-        a < 100;
-        a++;
     }
+    a++;
 }
-
-primeNumbers(1);
-
-
