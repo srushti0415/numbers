@@ -12,7 +12,7 @@ function myfunction(a,b,c,d){
         console.log("d is max")
     }
 }
-myfunction(2,4,8,7)
+myfunction(2,4,3,7)
 
 var num = 50;
 num = 40;
