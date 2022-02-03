@@ -30,5 +30,4 @@ let sum = 1;
         console.log(a, "it is a perfect number ")
     }
     a++;
-
 }
